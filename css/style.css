@@ -116,7 +116,7 @@ textarea:placeholder-shown + label {
 }
 
 footer {
-  flex: 0.25;
+  flex: 0.5;
   text-align: center;
   display: flex;
   flex-direction: column;
