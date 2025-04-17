@@ -122,3 +122,7 @@ footer {
   flex-direction: column;
   justify-content: center;
 }
+
+a {
+  color: green;
+}
